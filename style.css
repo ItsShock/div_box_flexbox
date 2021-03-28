@@ -1,0 +1,23 @@
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.div
+{
+    width: 80%;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box
+{
+    width: 30%;
+    height: 50px;
+    background-color: green;
+    margin-right: 5%;
+}
